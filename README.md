@@ -12,7 +12,7 @@
 
 📫 **How to Reach Me:**
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yedu_krish)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yedu__krish)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/Kr_i_s_h)
 
 ⚡ **Fun Fact:**
@@ -38,4 +38,5 @@
 
 ------------------------
 [![](https://visitcount.itsvg.in/api?id=yedu-krish05&icon=5&color=1)](https://visitcount.itsvg.in)
+
 
