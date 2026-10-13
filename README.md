@@ -31,7 +31,7 @@
 
   <!-- Vector Bento Infographic (Custom Glowing Cards) -->
   <a href="https://github.com/yedu-krish05">
-    <img src="https://raw.githubusercontent.com/yedu-krish05/yedu-krish05/main/assets/pillars.svg" width="100%" alt="Core Engineering Pillars" />
+    <img src="./assets/pillars.svg" width="100%" alt="Core Engineering Pillars" />
   </a>
 </div>
 
