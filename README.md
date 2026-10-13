@@ -1,7 +1,6 @@
 <div align="center">
 
-  <!-- Dynamic Gradient Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=180&section=header&text=Yedu%20Krishnan%20K&fontSize=42&fontAlignY=38&desc=Bot%20Architect%20%E2%80%A2%20Mobile%20%26%20Cross-Platform%20Developer&descAlignY=58&descSize=18" width="100%" />
+  <h1>Hi 👋, I'm Yedu Krishnan K</h1>
 
   <!-- Dynamic Typing SVG Header -->
   <a href="https://github.com/yedu-krish05">
