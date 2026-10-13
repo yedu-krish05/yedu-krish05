@@ -1,0 +1,199 @@
+<svg width="860" height="390" viewBox="0 0 860 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="cardBg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#0e131a" />
+    </linearGradient>
+
+    <!-- Theme Accents -->
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="100%" stop-color="#4FACFE" />
+    </linearGradient>
+
+    <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F355DA" />
+      <stop offset="100%" stop-color="#7000FF" />
+    </linearGradient>
+
+    <linearGradient id="emeraldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+
+    <linearGradient id="coralGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF6B6B" />
+      <stop offset="100%" stop-color="#FF8E53" />
+    </linearGradient>
+
+    <!-- Card 1 Border Gradient -->
+    <linearGradient id="border1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.8" />
+      <stop offset="40%" stop-color="#30363d" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#30363d" stop-opacity="0.2" />
+    </linearGradient>
+
+    <!-- Card 2 Border Gradient -->
+    <linearGradient id="border2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F355DA" stop-opacity="0.8" />
+      <stop offset="40%" stop-color="#30363d" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#30363d" stop-opacity="0.2" />
+    </linearGradient>
+
+    <!-- Card 3 Border Gradient -->
+    <linearGradient id="border3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.8" />
+      <stop offset="40%" stop-color="#30363d" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#30363d" stop-opacity="0.2" />
+    </linearGradient>
+
+    <!-- Card 4 Border Gradient -->
+    <linearGradient id="border4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF8E53" stop-opacity="0.8" />
+      <stop offset="40%" stop-color="#30363d" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#30363d" stop-opacity="0.2" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow1" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#00F2FE" flood-opacity="0.15" />
+    </filter>
+    <filter id="glow2" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#F355DA" flood-opacity="0.15" />
+    </filter>
+    <filter id="glow3" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#10B981" flood-opacity="0.15" />
+    </filter>
+    <filter id="glow4" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#FF8E53" flood-opacity="0.15" />
+    </filter>
+  </defs>
+
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 700; fill: #ffffff; }
+    .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; }
+    .desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 12.5px; fill: #94a3b8; line-height: 1.45; }
+    .tag-text { font-family: 'SF Mono', Consolas, Monaco, monospace; font-size: 10.5px; font-weight: 600; }
+  </style>
+
+  <!-- ==================== CARD 1: BOT ARCHITECTURE ==================== -->
+  <g filter="url(#glow1)">
+    <rect x="10" y="10" width="410" height="175" rx="14" fill="url(#cardBg1)" stroke="url(#border1)" stroke-width="1.5" />
+    
+    <!-- Icon Circle -->
+    <circle cx="45" cy="45" r="20" fill="#00F2FE" fill-opacity="0.12" stroke="#00F2FE" stroke-width="1" stroke-opacity="0.3" />
+    <text x="45" y="52" text-anchor="middle" font-size="20">🤖</text>
+
+    <!-- Category Pill -->
+    <text x="75" y="36" class="subtitle" fill="#00F2FE">AUTOMATION & BOT DEV</text>
+    <text x="75" y="57" class="title">Bot Architecture & Agents</text>
+
+    <!-- Description -->
+    <text x="25" y="94" class="desc">Engineering async Telegram &amp; Discord bots that handle</text>
+    <text x="25" y="112" class="desc">high-throughput webhooks, media tasks, and stateful flows.</text>
+
+    <!-- Tech Pills -->
+    <rect x="25" y="132" width="76" height="24" rx="6" fill="#00F2FE" fill-opacity="0.1" stroke="#00F2FE" stroke-opacity="0.3" />
+    <text x="63" y="148" class="tag-text" fill="#00F2FE" text-anchor="middle">Python</text>
+
+    <rect x="108" y="132" width="82" height="24" rx="6" fill="#00F2FE" fill-opacity="0.1" stroke="#00F2FE" stroke-opacity="0.3" />
+    <text x="149" y="148" class="tag-text" fill="#00F2FE" text-anchor="middle">AsyncIO</text>
+
+    <rect x="197" y="132" width="98" height="24" rx="6" fill="#00F2FE" fill-opacity="0.1" stroke="#00F2FE" stroke-opacity="0.3" />
+    <text x="246" y="148" class="tag-text" fill="#00F2FE" text-anchor="middle">Telegram API</text>
+
+    <rect x="302" y="132" width="95" height="24" rx="6" fill="#00F2FE" fill-opacity="0.1" stroke="#00F2FE" stroke-opacity="0.3" />
+    <text x="349" y="148" class="tag-text" fill="#00F2FE" text-anchor="middle">Discord.py</text>
+  </g>
+
+  <!-- ==================== CARD 2: CROSS-PLATFORM MOBILE ==================== -->
+  <g filter="url(#glow2)">
+    <rect x="440" y="10" width="410" height="175" rx="14" fill="url(#cardBg1)" stroke="url(#border2)" stroke-width="1.5" />
+    
+    <!-- Icon Circle -->
+    <circle cx="475" cy="45" r="20" fill="#F355DA" fill-opacity="0.12" stroke="#F355DA" stroke-width="1" stroke-opacity="0.3" />
+    <text x="475" y="52" text-anchor="middle" font-size="20">📱</text>
+
+    <!-- Category Pill -->
+    <text x="505" y="36" class="subtitle" fill="#F355DA">CROSS-PLATFORM APPS</text>
+    <text x="505" y="57" class="title">Mobile App Development</text>
+
+    <!-- Description -->
+    <text x="455" y="94" class="desc">Crafting fluent, 60fps native-feeling mobile applications</text>
+    <text x="455" y="112" class="desc">with Flutter, clean architecture, and reactive state management.</text>
+
+    <!-- Tech Pills -->
+    <rect x="455" y="132" width="74" height="24" rx="6" fill="#F355DA" fill-opacity="0.1" stroke="#F355DA" stroke-opacity="0.3" />
+    <text x="492" y="148" class="tag-text" fill="#F355DA" text-anchor="middle">Flutter</text>
+
+    <rect x="536" y="132" width="62" height="24" rx="6" fill="#F355DA" fill-opacity="0.1" stroke="#F355DA" stroke-opacity="0.3" />
+    <text x="567" y="148" class="tag-text" fill="#F355DA" text-anchor="middle">Dart</text>
+
+    <rect x="605" y="132" width="94" height="24" rx="6" fill="#F355DA" fill-opacity="0.1" stroke="#F355DA" stroke-opacity="0.3" />
+    <text x="652" y="148" class="tag-text" fill="#F355DA" text-anchor="middle">Clean Arch</text>
+
+    <rect x="706" y="132" width="82" height="24" rx="6" fill="#F355DA" fill-opacity="0.1" stroke="#F355DA" stroke-opacity="0.3" />
+    <text x="747" y="148" class="tag-text" fill="#F355DA" text-anchor="middle">Android</text>
+  </g>
+
+  <!-- ==================== CARD 3: BACKEND & MEDIA PIPELINES ==================== -->
+  <g filter="url(#glow3)">
+    <rect x="10" y="205" width="410" height="175" rx="14" fill="url(#cardBg1)" stroke="url(#border3)" stroke-width="1.5" />
+    
+    <!-- Icon Circle -->
+    <circle cx="45" cy="240" r="20" fill="#10B981" fill-opacity="0.12" stroke="#10B981" stroke-width="1" stroke-opacity="0.3" />
+    <text x="45" y="247" text-anchor="middle" font-size="20">⚙️</text>
+
+    <!-- Category Pill -->
+    <text x="75" y="231" class="subtitle" fill="#10B981">SYSTEMS &amp; CLOUD</text>
+    <text x="75" y="252" class="title">Backend &amp; Media Pipelines</text>
+
+    <!-- Description -->
+    <text x="25" y="289" class="desc">Developing RESTful microservices, event-driven webhooks,</text>
+    <text x="25" y="307" class="desc">and high-performance video/audio pipelines with FFmpeg.</text>
+
+    <!-- Tech Pills -->
+    <rect x="25" y="327" width="78" height="24" rx="6" fill="#10B981" fill-opacity="0.1" stroke="#10B981" stroke-opacity="0.3" />
+    <text x="64" y="343" class="tag-text" fill="#10B981" text-anchor="middle">FFmpeg</text>
+
+    <rect x="110" y="327" width="90" height="24" rx="6" fill="#10B981" fill-opacity="0.1" stroke="#10B981" stroke-opacity="0.3" />
+    <text x="155" y="343" class="tag-text" fill="#10B981" text-anchor="middle">REST APIs</text>
+
+    <rect x="207" y="327" width="76" height="24" rx="6" fill="#10B981" fill-opacity="0.1" stroke="#10B981" stroke-opacity="0.3" />
+    <text x="245" y="343" class="tag-text" fill="#10B981" text-anchor="middle">Docker</text>
+
+    <rect x="290" y="327" width="100" height="24" rx="6" fill="#10B981" fill-opacity="0.1" stroke="#10B981" stroke-opacity="0.3" />
+    <text x="340" y="343" class="tag-text" fill="#10B981" text-anchor="middle">GCP / Cloud</text>
+  </g>
+
+  <!-- ==================== CARD 4: AI & ALGORITHMIC PROBLEM SOLVING ==================== -->
+  <g filter="url(#glow4)">
+    <rect x="440" y="205" width="410" height="175" rx="14" fill="url(#cardBg1)" stroke="url(#border4)" stroke-width="1.5" />
+    
+    <!-- Icon Circle -->
+    <circle cx="475" cy="240" r="20" fill="#FF8E53" fill-opacity="0.12" stroke="#FF8E53" stroke-width="1" stroke-opacity="0.3" />
+    <text x="475" y="247" text-anchor="middle" font-size="20">🧠</text>
+
+    <!-- Category Pill -->
+    <text x="505" y="231" class="subtitle" fill="#FF8E53">LOGIC &amp; EXPLORATION</text>
+    <text x="505" y="252" class="title">AI &amp; Problem Solving</text>
+
+    <!-- Description -->
+    <text x="455" y="289" class="desc">Exploring machine learning models, modern LLM integrations,</text>
+    <text x="455" y="307" class="desc">and solving complex algorithmic riddles and system design.</text>
+
+    <!-- Tech Pills -->
+    <rect x="455" y="327" width="60" height="24" rx="6" fill="#FF8E53" fill-opacity="0.1" stroke="#FF8E53" stroke-opacity="0.3" />
+    <text x="485" y="343" class="tag-text" fill="#FF8E53" text-anchor="middle">AI / ML</text>
+
+    <rect x="522" y="327" width="82" height="24" rx="6" fill="#FF8E53" fill-opacity="0.1" stroke="#FF8E53" stroke-opacity="0.3" />
+    <text x="563" y="343" class="tag-text" fill="#FF8E53" text-anchor="middle">Java OOP</text>
+
+    <rect x="611" y="327" width="68" height="24" rx="6" fill="#FF8E53" fill-opacity="0.1" stroke="#FF8E53" stroke-opacity="0.3" />
+    <text x="645" y="343" class="tag-text" fill="#FF8E53" text-anchor="middle">C / C++</text>
+
+    <rect x="686" y="327" width="112" height="24" rx="6" fill="#FF8E53" fill-opacity="0.1" stroke="#FF8E53" stroke-opacity="0.3" />
+    <text x="742" y="343" class="tag-text" fill="#FF8E53" text-anchor="middle">Puzzle Solving</text>
+  </g>
+</svg>

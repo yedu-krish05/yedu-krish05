@@ -28,40 +28,17 @@
 <div align="center">
   <h2>⚡ Inside the Mind of the Developer</h2>
   <p><i>"Turning raw logic and curiosity into automated bots, responsive mobile apps, and scalable solutions."</i></p>
+
+  <!-- Vector Bento Infographic (Custom Glowing Cards) -->
+  <a href="https://github.com/yedu-krish05">
+    <img src="https://raw.githubusercontent.com/yedu-krish05/yedu-krish05/main/assets/pillars.svg" width="100%" alt="Core Engineering Pillars" />
+  </a>
 </div>
 
-<!-- Bento-style 2-Column Showcase -->
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <div align="center">
-        <h3>🚀 Core Engineering Pillars</h3>
-      </div>
-      <br/>
-      <table>
-        <tr>
-          <td>🤖</td>
-          <td><b>Bot Architecture & Automation</b><br/>Designing asynchronous Telegram and Discord bots capable of handling high-throughput webhooks, media tasks, and automated workflows.</td>
-        </tr>
-        <tr>
-          <td>📱</td>
-          <td><b>Cross-Platform Mobile Apps</b><br/>Building 60fps native-feeling mobile applications with <b>Flutter & Dart</b>, prioritizing Clean Architecture and clean reactive state management.</td>
-        </tr>
-        <tr>
-          <td>⚙️</td>
-          <td><b>Backend & Media Pipelines</b><br/>Developing RESTful microservices, event-driven webhooks, and complex multimedia workflows powered by <b>Python & FFmpeg</b>.</td>
-        </tr>
-        <tr>
-          <td>🧠</td>
-          <td><b>AI & Algorithmic Problem Solving</b><br/>Exploring machine learning models, modern LLM integrations, and cracking intricate logic puzzles and riddle systems.</td>
-        </tr>
-      </table>
-    </td>
-    <td width="45%" valign="top">
-      <div align="center">
-        <h3>📊 Developer Telemetry</h3>
-      </div>
-      <br/>
+<br/>
+
+<!-- Sleek Terminal Telemetry -->
+<div align="center">
 
 ```bash
 yedu@workspace:~$ neofetch --profile
@@ -75,40 +52,16 @@ yedu@workspace:~$ neofetch --profile
 └───────────────────────────────────┘
 ```
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Building_%26_Shipping-6366F1?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-00D26A?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
   <p align="center">
-    <i>💬 Ask me about: Asynchronous Python, Telegram APIs, Flutter state management, or algorithmic riddles!</i>
+    <img src="https://img.shields.io/badge/Status-Building_%26_Shipping-6366F1?style=for-the-badge&logo=githubactions&logoColor=white" />
+    <img src="https://img.shields.io/badge/Open_Source-Contributor-00D26A?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mindset-Solve_Puzzles-FF8E53?style=for-the-badge&logo=target&logoColor=white" />
   </p>
 
-    </td>
-  </tr>
-</table>
-
-<!-- 4-Pillar Badges Strip -->
-<table width="100%">
-  <tr align="center">
-    <td width="25%">
-      <b>🤖 BOT DEV</b><br/>
-      <sub>Telegram • Discord.py • Asyncio</sub>
-    </td>
-    <td width="25%">
-      <b>📱 MOBILE APPS</b><br/>
-      <sub>Flutter • Dart • Clean Arch</sub>
-    </td>
-    <td width="25%">
-      <b>⚡ AUTOMATION</b><br/>
-      <sub>Python • Webhooks • FFmpeg</sub>
-    </td>
-    <td width="25%">
-      <b>☁️ CLOUD & DEVOPS</b><br/>
-      <sub>Docker • GCP • Vercel • Render</sub>
-    </td>
-  </tr>
-</table>
+  <p align="center">
+    <i>💬 <b>Ask me about:</b> Asynchronous Python, Telegram APIs, Flutter Architecture, or Algorithmic Riddles!</i>
+  </p>
+</div>
 
 ---
 
