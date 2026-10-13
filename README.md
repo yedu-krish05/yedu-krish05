@@ -1,13 +1,12 @@
 <div align="center">
 
+  <!-- Dynamic Gradient Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=180&section=header&text=Yedu%20Krishnan%20K&fontSize=42&fontAlignY=38&desc=Bot%20Architect%20%E2%80%A2%20Mobile%20%26%20Cross-Platform%20Developer&descAlignY=58&descSize=18" width="100%" />
+
   <!-- Dynamic Typing SVG Header -->
   <a href="https://github.com/yedu-krish05">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Yedu+Krishnan+K;Telegram+%26+Discord+Bot+Developer;Python+%26+Cross-Platform+Enthusiast;Building+Creative+Apps+%26+AI+Tools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Telegram+%26+Discord+Bot+Developer;Python+%26+Cross-Platform+Enthusiast;Flutter+%26+Dart+Mobile+Creator;Automating+The+Web+%26+Building+AI+Tools" alt="Typing SVG" />
   </a>
-
-  <p align="center">
-    <strong>Software Developer • Bot Architect • AI & Open Source Explorer</strong>
-  </p>
 
   <!-- Social Connect Badges -->
   <p align="center">
@@ -26,22 +25,90 @@
 
 ---
 
-### 👨‍💻 About Me
+<div align="center">
+  <h2>⚡ Inside the Mind of the Developer</h2>
+  <p><i>"Turning raw logic and curiosity into automated bots, responsive mobile apps, and scalable solutions."</i></p>
+</div>
 
-```yaml
-developer: Yedu Krishnan K
-tagline: Turning coffee and logic into bots, apps, and clean code
-specialties: Telegram & Discord Bots, Automation, Cross-Platform Mobile
-passions:
-  - AI & Machine Learning Exploration
-  - Open Source Contributions
-  - Puzzle & Riddle Solving
+<!-- Bento-style 2-Column Showcase -->
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <div align="center">
+        <h3>🚀 Core Engineering Pillars</h3>
+      </div>
+      <br/>
+      <table>
+        <tr>
+          <td>🤖</td>
+          <td><b>Bot Architecture & Automation</b><br/>Designing asynchronous Telegram and Discord bots capable of handling high-throughput webhooks, media tasks, and automated workflows.</td>
+        </tr>
+        <tr>
+          <td>📱</td>
+          <td><b>Cross-Platform Mobile Apps</b><br/>Building 60fps native-feeling mobile applications with <b>Flutter & Dart</b>, prioritizing Clean Architecture and clean reactive state management.</td>
+        </tr>
+        <tr>
+          <td>⚙️</td>
+          <td><b>Backend & Media Pipelines</b><br/>Developing RESTful microservices, event-driven webhooks, and complex multimedia workflows powered by <b>Python & FFmpeg</b>.</td>
+        </tr>
+        <tr>
+          <td>🧠</td>
+          <td><b>AI & Algorithmic Problem Solving</b><br/>Exploring machine learning models, modern LLM integrations, and cracking intricate logic puzzles and riddle systems.</td>
+        </tr>
+      </table>
+    </td>
+    <td width="45%" valign="top">
+      <div align="center">
+        <h3>📊 Developer Telemetry</h3>
+      </div>
+      <br/>
+
+```bash
+yedu@workspace:~$ neofetch --profile
+┌─ Identity ────────────────────────┐
+│ Name    : Yedu Krishnan K         │
+│ Role    : Bot & Mobile Engineer   │
+│ Focus   : Python • Flutter • Java │
+│ Cloud   : GCP • Docker • Render   │
+│ Mindset : "Automate the Mundane"  │
+│ Fuel    : ☕ 99% Dark Roast       │
+└───────────────────────────────────┘
 ```
 
-- 🤖 **Bot Engineering**: Architecting interactive Telegram & Discord bots with Python and asynchronous frameworks.
-- 📱 **Cross-Platform & Mobile**: Developing apps using **Flutter & Dart**, with clean architecture and smooth UI.
-- 💡 **Backend & Automation**: Writing scalable backends, automated scripts, and working with APIs, Webhooks, and FFmpeg media processing.
-- 🧩 **Fun Fact**: I love solving puzzles and riddles — the harder the problem, the more fun the solution!
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Building_%26_Shipping-6366F1?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-00D26A?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+  <p align="center">
+    <i>💬 Ask me about: Asynchronous Python, Telegram APIs, Flutter state management, or algorithmic riddles!</i>
+  </p>
+
+    </td>
+  </tr>
+</table>
+
+<!-- 4-Pillar Badges Strip -->
+<table width="100%">
+  <tr align="center">
+    <td width="25%">
+      <b>🤖 BOT DEV</b><br/>
+      <sub>Telegram • Discord.py • Asyncio</sub>
+    </td>
+    <td width="25%">
+      <b>📱 MOBILE APPS</b><br/>
+      <sub>Flutter • Dart • Clean Arch</sub>
+    </td>
+    <td width="25%">
+      <b>⚡ AUTOMATION</b><br/>
+      <sub>Python • Webhooks • FFmpeg</sub>
+    </td>
+    <td width="25%">
+      <b>☁️ CLOUD & DEVOPS</b><br/>
+      <sub>Docker • GCP • Vercel • Render</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
