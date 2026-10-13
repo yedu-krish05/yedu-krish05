@@ -1,42 +1,152 @@
-# 💫 About Me:
+<div align="center">
 
-🔭 **I'm Yedu Krishnan K,**
+  <!-- Dynamic Typing SVG Header -->
+  <a href="https://github.com/yedu-krish05">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Yedu+Krishnan+K;Telegram+%26+Discord+Bot+Developer;Python+%26+Cross-Platform+Enthusiast;Building+Creative+Apps+%26+AI+Tools" alt="Typing SVG" />
+  </a>
 
-🖥️ Telegram & Discord Bot Developer | 🐍 Python Enthusiast
+  <p align="center">
+    <strong>Software Developer • Bot Architect • AI & Open Source Explorer</strong>
+  </p>
 
-🌟 **Passionate About:**
+  <!-- Social Connect Badges -->
+  <p align="center">
+    <a href="https://t.me/Kr_i_s_h" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="https://instagram.com/yedu__krish" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://github.com/yedu-krish05" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
-- 💡 Coding
-- 🧠 AI 
-- 🏆 Open Source Contributions
-
-📫 **How to Reach Me:**
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yedu__krish)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/Kr_i_s_h)
-
-⚡ **Fun Fact:**
-
-- 🧩 I love solving puzzles and riddles!
+</div>
 
 ---
 
+### 👨‍💻 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=plastic&labelColor=171717&logoColor=5cb85c) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+```yaml
+developer: Yedu Krishnan K
+tagline: Turning coffee and logic into bots, apps, and clean code
+specialties: Telegram & Discord Bots, Automation, Cross-Platform Mobile
+passions:
+  - AI & Machine Learning Exploration
+  - Open Source Contributions
+  - Puzzle & Riddle Solving
+```
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yedu-krish05&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yedu-krish05&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yedu-krish05&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+- 🤖 **Bot Engineering**: Architecting interactive Telegram & Discord bots with Python and asynchronous frameworks.
+- 📱 **Cross-Platform & Mobile**: Developing apps using **Flutter & Dart**, with clean architecture and smooth UI.
+- 💡 **Backend & Automation**: Writing scalable backends, automated scripts, and working with APIs, Webhooks, and FFmpeg media processing.
+- 🧩 **Fun Fact**: I love solving puzzles and riddles — the harder the problem, the more fun the solution!
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yedu-krish05&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yedu-krish05&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+### 🏆 GitHub Trophies
 
-------------------------
-[![](https://visitcount.itsvg.in/api?id=yedu-krish05&icon=5&color=1)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yedu-krish05&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
 
+---
 
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+#### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+#### 📱 Frameworks & Mobile / Bots
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bot" />
+  <img src="https://img.shields.io/badge/Telegram_Bot-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+#### ☁️ Cloud, Databases & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+#### 🧰 Tools & Design
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <!-- Overall Stats -->
+        <a href="https://github.com/yedu-krish05">
+          <img src="https://github-readme-stats.vercel.app/api?username=yedu-krish05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Yedu's GitHub Stats" />
+        </a>
+      </td>
+      <td>
+        <!-- Top Languages -->
+        <a href="https://github.com/yedu-krish05">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yedu-krish05&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Streak Stats Card (Active endpoint) -->
+  <p align="center">
+    <a href="https://github.com/yedu-krish05">
+      <img src="https://streak-stats.demolab.com?user=yedu-krish05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </a>
+  </p>
+</div>
+
+---
+
+### 🤝 Let's Connect!
+
+<p align="center">
+  Got an idea for an awesome bot, cross-platform app, or automation tool? Let's talk!
+</p>
+
+<p align="center">
+  <a href="https://t.me/Kr_i_s_h" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Chat_with_me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://instagram.com/yedu__krish" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow_me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/yedu-krish05" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yedu-krish05&style=flat-square&color=6366F1" alt="Profile Views" />
+</p>
