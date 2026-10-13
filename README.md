@@ -48,7 +48,9 @@ passions:
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yedu-krish05&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/yedu-krish05">
+    <img src="https://github-profile-repo.vercel.app/?username=yedu-krish05&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
